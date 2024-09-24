@@ -1,0 +1,38 @@
+# User specific configuration
+usr/
+
+# Build directories
+archive/
+logs/
+build/
+
+*.exe
+*.user
+
+# Python
+__pycache__/
+
+# Sublime Text
+*.sublime*
+
+# Vim
+*.swp
+
+
+CMakeFiles
+CMakeCache.txt
+*.vcxproj*
+*.cmake
+.vc
+.vs
+*.tlog
+*.obj
+*.log
+*.recipe
+*.idb
+*.pdb
+*.dll
+*.lib
+*.exp
+*.ilk
+*.sln

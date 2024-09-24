@@ -1,0 +1,3 @@
+[submodule "GuildWarsPartySearch.Bot/Dependencies/Headquarter"]
+	path = GuildWarsPartySearch.Bot/Dependencies/Headquarter
+url=https://github.com/3vcloud/JonsHeadquarter

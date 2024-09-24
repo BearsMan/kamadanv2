@@ -1,0 +1,1 @@
+cmake -B win32build -A Win32

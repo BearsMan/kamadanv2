@@ -1,0 +1,9 @@
+diff a/code/portal/ssl.c b/code/portal/ssl.c	(rejected hunks)
+@@ -697,6 +727,7 @@ static int parse_tls12_handshake(
+ 
+     if (data[0] != content_type)
+     {
++        DumpHex(data, length);
+         if (data[0] == SSL_MSG_ALERT)
+             show_alert_message(*subdata, *sublen);
+         return ERR_SSL_UNEXPECTED_MESSAGE;

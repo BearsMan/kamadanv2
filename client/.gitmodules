@@ -1,0 +1,3 @@
+[submodule "Dependencies/Headquarter"]
+	path = Dependencies/Headquarter
+	url = https://github.com/3vcloud/Headquarter.git
